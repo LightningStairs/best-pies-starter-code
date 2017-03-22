@@ -1,4 +1,4 @@
-# Bar Reviews
+# Best Pies
 
 Based off of [Jenn Eng's Rails/React app](https://github.com/jennceng/bar_reviews_react_router).
 
